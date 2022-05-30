@@ -36,11 +36,12 @@ ___
 ~~israil~~  
 
 ### inline code
+`#include<stdio.h>` 
 ___
 
 ### multiple line code
 ___
-`#include<stdio.h>`  
+ 
 ```cpp
 #include<iostream> 
 using namespace std;
