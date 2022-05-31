@@ -97,7 +97,7 @@ ___
 | name | email |  
 | ----- | ---- |
 | israil | israil@yahoo.com |
-| neoaj bhai  | neaojbhai@gmail.com |  
+| xyz | xyz@gmail.com |  
 ___
 
 
